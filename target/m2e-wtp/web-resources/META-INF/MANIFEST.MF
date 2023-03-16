@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: M2M_LOGSMS
+Implementation-Version: 1.0
+Built-By: CH-E01141
+Implementation-Vendor-Id: com.spice
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/M2M_LONGSMS
+Created-By: Maven Integration for Eclipse
+

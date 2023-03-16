@@ -1,0 +1,5 @@
+com\spice\M2MLONGSMSApplication.class
+com\spice\model\Item.class
+com\spice\controller\AcceptController.class
+com\spice\conf\Redisconfig.class
+com\spice\service\ServiceClass.class
